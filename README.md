@@ -3,4 +3,4 @@
 - 💞️ I’m looking to collaborate on angular projects
 - 📫 How to reach me (shahzad.sa68@gmail.com)
 
-#[![GitHub Streak](https://streak-stats.demolab.com?user=Malik-shahzadAli&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=/DenverCoder1&theme=dark)]
